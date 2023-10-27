@@ -3,9 +3,10 @@
 ## Objetivos 
 - Explorar os conteúdos das semanas 7 e 8 ([datastructure](https://github.com/ivanovitchm/datastructure)).
   - Assortatividade
-  - Distâncias
+  - Distâncias*
   - Componentes conectados
   - Coeficiente de clustering
+                                                                                                                                         *Será explorado em trabalhos futuros
     
 ## Requisitos 01
 - O primeiro passo a ser feito é escolhher pelo menos 5 redes disponíveis no repositório [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/), também conhecido como SNAP, que é uma coleção de conjuntos de dados de redes mantido pela Universidade Stanford.
