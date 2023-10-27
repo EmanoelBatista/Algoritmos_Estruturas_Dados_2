@@ -1,3 +1,5 @@
+# Small Worlds
+
 ## Objetivos 
 - Explorar os conteúdos das semanas 7 e 8 ([datastructure](https://github.com/ivanovitchm/datastructure)).
   - Assortatividade
