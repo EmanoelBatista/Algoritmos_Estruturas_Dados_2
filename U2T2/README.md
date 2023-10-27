@@ -1,5 +1,5 @@
 ## Objetivos 
-- Explorar os conteúdos das semanas 7 e 8 [datastructure](https://github.com/ivanovitchm/datastructure).
+- Explorar os conteúdos das semanas 7 e 8 ([datastructure](https://github.com/ivanovitchm/datastructure)).
   - Assortatividade
   - Distâncias*
   - Componentes conectados
