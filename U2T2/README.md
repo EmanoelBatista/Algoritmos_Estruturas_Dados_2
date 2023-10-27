@@ -1,7 +1,7 @@
 ## Objetivos 
 - Explorar os conteúdos das semanas 7 e 8 ([datastructure](https://github.com/ivanovitchm/datastructure)).
   - Assortatividade
-  - Distâncias*
+  - Distâncias
   - Componentes conectados
   - Coeficiente de clustering
     
