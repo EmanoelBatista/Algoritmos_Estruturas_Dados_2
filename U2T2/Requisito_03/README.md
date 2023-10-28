@@ -5,4 +5,4 @@
  
 <img src="https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/blob/main/U2T2/Requisito_03/Tabela.png" alt="Tabela" width="600" height="400">
 
-## Interpretação
+## Interpretação dos resultados
