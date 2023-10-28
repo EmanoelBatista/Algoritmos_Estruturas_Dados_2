@@ -17,10 +17,10 @@
   - 5
     
 ## Requisitos 02
-- [Link](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
+- Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
 
 ## Requisitos 03
-- [Link](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
+- Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
 
 ## Vídeo explicativo
 - Assista ao vídeo explicativo [aqui]().
