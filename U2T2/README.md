@@ -10,6 +10,7 @@
 ## Requisitos 01
 - O primeiro passo a ser feito é escolhher pelo menos 5 redes disponíveis no repositório [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/), também conhecido como SNAP, que é uma coleção de conjuntos de dados de redes mantido pela Universidade Stanford.
 - As 5 redes escolhidas foram:
+
 | Rede | Detalhamento |
 |----------|----------|
 | [Social networks - ego-Twitter](https://snap.stanford.edu/data/ego-Twitter.html) | Este conjunto de dados consiste em ‘círculos’ (ou ‘listas’) do Twitter. Os dados do Twitter foram rastreados de fontes públicas. O conjunto de dados inclui recursos de nós (perfis), círculos e redes de ego.   |
