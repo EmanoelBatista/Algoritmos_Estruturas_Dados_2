@@ -18,7 +18,7 @@
 ## Interpretação dos resultados
 - Nesta atividade, analisamos diferentes redes complexas com base em conjuntos de dados reais. Cada rede representa um contexto específico, como redes de colaboração, redes de páginas da web, redes de mídia social, e redes de perguntas e respostas online.
 - Foi calculado e interpretado métricas essenciais, como:
-  - Quantidade de Vértices (Nodes): Esta coluna representa o número total de nós ou elementos na rede. Em contextos diferentes, os vértices podem representar usuários, páginas da web, autores, ou qualquer outra entidade na rede, dependendo do cenário específico.
+  - __Quantidade de Vértices (Nodes):__ Esta coluna representa o número total de nós ou elementos na rede. Em contextos diferentes, os vértices podem representar usuários, páginas da web, autores, ou qualquer outra entidade na rede, dependendo do cenário específico.
   - Quantidade de Arestas (Edges): Essa coluna indica o número total de conexões ou relações entre os vértices da rede. A quantidade de arestas reflete a extensão das interações ou conexões na rede.
   - Degree Assortativity Coefficient: Este coeficiente mede a tendência de nós com graus de conexão semelhantes (nós com muitas conexões se conectando a outros nós com muitas conexões, e nós com poucas conexões se conectando a outros nós com poucas conexões) na rede. Um valor positivo indica assortatividade positiva, enquanto um valor negativo indica assortatividade negativa.
   - Quantidade de Componentes Conectados: Essa coluna mostra o número de grupos ou partes distintas na rede que estão conectadas entre si. Cada componente conectado representa uma comunidade ou sub-rede na rede global.
