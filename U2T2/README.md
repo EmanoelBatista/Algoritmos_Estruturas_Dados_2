@@ -19,12 +19,12 @@
    
 ## Requisitos 02
 - Para cada uma das redes escolhidas, fazer um gráfico bipartido sobre a assortatividade em relação ao grau dos nós da rede. Também, interpreta os resultados comparando as diferentes redes, o texto da interpretação deverá ter entre 500 e 1000 palavras.
-- Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
+- Para acessar, clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
 
 ## Requisitos 03
 - Reproduzir a tabela disponibilizada no documento do trabalho.
 - Implementar a tabela no formato markdown juntamente com a interpretação dos resultados cuja o texto deverá ter entre 500 a 1000 palavras.
-- Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
+- Para acessar, clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
 
 ## Vídeo explicativo
 - Assista ao vídeo explicativo [aqui]().
