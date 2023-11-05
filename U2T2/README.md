@@ -17,7 +17,7 @@
 5. [Temporal networks (wiki-talk-temporal)](https://snap.stanford.edu/data/wiki-talk-temporal.html) = Esta é uma rede temporal que representa os usuários da Wikipedia editando as páginas de discussão uns dos outros. Uma borda direcionada (u, v, t) significa que o usuário u editou a página de discussão do usuário v no momento t.
    
 ## Requisitos 02
-- Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
+- Para cada uma das redes escolhidas, fazer um gráfico bipartido sobre a assortatividade em relação ao grau dos nós da rede. Também, interpreta os resultados comparando as diferentes redes, o texto da interpretação deverá ter entre 500 e 1000 palavras. Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
 
 ## Requisitos 03
 - Para acessar clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
