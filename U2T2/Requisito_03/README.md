@@ -25,6 +25,7 @@
   - __Tamanho do Componente Gigante (GCC):__ O GCC é o maior componente conectado na rede. Ele engloba o maior número de vértices interconectados e representa a maior comunidade ou grupo de nós na rede.
   - __Coeficiente de Clustering:__ O coeficiente de clustering mede a tendência de os nós formarem grupos locais ou comunidades interconectadas na rede. Ele quantifica a densidade das conexões em torno de um nó e indica a presença de clusters ou grupos de nós na rede.
 - A análise dessas métricas nos ajuda a compreender a estrutura e a dinâmica de cada rede, bem como a identificar tendências importantes para as aplicações específicas dessas redes. Essa análise é crucial para entender o comportamento e as interações dentro de redes complexas do mundo real.
+- Segue uma interpretação de cada rede:
 ### 1. com-Youtube
    - A rede "com-Youtube" é uma rede de grande escala com muitos vértices e arestas, mas é altamente fragmentada em vários componentes isolados. Ela apresenta uma tendência disassortativa de grau e um coeficiente de agrupamento relativamente baixo. Esses resultados podem ser úteis para entender a estrutura e dinâmica da rede e podem ter implicações em diversas aplicações, como análise de redes sociais e disseminação de informações.
 ### 2. ca-AstroPh
