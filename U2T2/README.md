@@ -22,7 +22,7 @@
 - Para acessar, clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_02)
 
 ## Requisitos 03
-- Reproduzir a tabela disponibilizada no [documento do trabalho](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf)
+- Reproduzir a tabela disponibilizada no [documento do trabalho](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf).
 - Implementar a tabela no formato markdown juntamente com a interpretação dos resultados cuja o texto deverá ter entre 500 a 1000 palavras.
 - Para acessar, clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
 
