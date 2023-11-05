@@ -26,7 +26,7 @@
   - __Coeficiente de Clustering:__ O coeficiente de clustering mede a tendência de os nós formarem grupos locais ou comunidades interconectadas na rede. Ele quantifica a densidade das conexões em torno de um nó e indica a presença de clusters ou grupos de nós na rede.
 - A análise dessas métricas nos ajuda a compreender a estrutura e a dinâmica de cada rede, bem como a identificar tendências importantes para as aplicações específicas dessas redes. Essa análise é crucial para entender o comportamento e as interações dentro de redes complexas do mundo real.
 - Segue uma interpretação de cada rede:
-### 1. com-Youtube
+  - com-Youtube
    - A rede "com-Youtube" é uma rede de grande escala com muitos vértices e arestas, mas é altamente fragmentada em vários componentes isolados. Ela apresenta uma tendência disassortativa de grau e um coeficiente de agrupamento relativamente baixo. Esses resultados podem ser úteis para entender a estrutura e dinâmica da rede e podem ter implicações em diversas aplicações, como análise de redes sociais e disseminação de informações.
 ### 2. ca-AstroPh
    - A rede de colaboração "ca-AstroPh" é uma rede extensa com muitos vértices e arestas, e ela exibe uma assortatividade positiva, sugerindo a formação de grupos de colaboradores coesos. A presença de múltiplos componentes conectados indica a existência de várias comunidades menores dentro da rede, enquanto o GCC representa a maior e mais coesa comunidade. O alto coeficiente de clustering médio destaca a tendência à formação de grupos locais de colaboração na área de astrofísica. Esses resultados são importantes para a compreensão da estrutura e da dinâmica das redes de colaboração científica.
