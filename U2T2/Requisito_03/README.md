@@ -16,3 +16,6 @@
 | web-Google              | 875713           | 5105039         | -0.06520019402435487                   | 371764                      | 434818                      | 0.3698306814797672             |
 | loc-Gowalla              | 196591           | 1900654         | -0.02925474163485361                    | 1                      | 196591                      | 0.23672372971033598             |
 | sx-askubuntu              | 159316           | 596933         | -0.10278842628952252                    | 97174                       | 59813                      | 0.07696177166103574             |
+
+## com-Youtube
+- A rede "com-Youtube" é uma rede de grande escala com muitos vértices e arestas, mas é altamente fragmentada em vários componentes isolados. Ela apresenta uma tendência disassortativa de grau e um coeficiente de agrupamento relativamente baixo. Esses resultados podem ser úteis para entender a estrutura e dinâmica da rede e podem ter implicações em diversas aplicações, como análise de redes sociais e disseminação de informações.
