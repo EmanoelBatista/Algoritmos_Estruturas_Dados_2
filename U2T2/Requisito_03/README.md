@@ -26,14 +26,14 @@
   - __Coeficiente de Clustering:__ O coeficiente de clustering mede a tendência de os nós formarem grupos locais ou comunidades interconectadas na rede. Ele quantifica a densidade das conexões em torno de um nó e indica a presença de clusters ou grupos de nós na rede.
 - A análise dessas métricas nos ajuda a compreender a estrutura e a dinâmica de cada rede, bem como a identificar tendências importantes para as aplicações específicas dessas redes. Essa análise é crucial para entender o comportamento e as interações dentro de redes complexas do mundo real.
 - Segue uma interpretação de cada rede:
-  - **com-Youtube**
+  - **1. com-Youtube**
     - A rede "com-Youtube" é uma rede de grande escala com muitos vértices e arestas, mas é altamente fragmentada em vários componentes isolados. Ela apresenta uma tendência disassortativa de grau e um coeficiente de agrupamento relativamente baixo. Esses resultados podem ser úteis para entender a estrutura e dinâmica da rede e podem ter implicações em diversas aplicações, como análise de redes sociais e disseminação de informações.
-  - **ca-AstroPh**
+  - **2. ca-AstroPh**
     - A rede de colaboração "ca-AstroPh" é uma rede extensa com muitos vértices e arestas, e ela exibe uma assortatividade positiva, sugerindo a formação de grupos de colaboradores coesos. A presença de múltiplos componentes conectados indica a existência de várias comunidades menores dentro da rede, enquanto o GCC representa a maior e mais coesa comunidade. O alto coeficiente de clustering médio destaca a tendência à formação de grupos locais de colaboração na área de astrofísica. Esses resultados são importantes para a compreensão da estrutura e da dinâmica das redes de colaboração científica.
-  - **web-Google**
+  - **3. web-Google**
     - A rede de páginas da web "web-Google" é uma rede massiva com uma quantidade significativa de vértices e arestas. Ela exibe uma assortatividade negativa em relação ao grau, refletindo a natureza da Web, onde páginas populares estão interconectadas com páginas menos populares. A rede é altamente fragmentada em vários componentes conectados, com um GCC representando a maior comunidade de páginas interconectadas. O alto coeficiente de clustering médio sugere a formação de grupos locais de páginas interconectadas. Esses resultados são fundamentais para a compreensão da estrutura da World Wide Web e seu funcionamento.
-  - **loc-Gowalla**
+  - **4. loc-Gowalla**
     - A rede de rede social online baseada em localização "loc-Gowalla" é uma rede de grande escala com muitos usuários e conexões. Ela exibe uma assortatividade ligeiramente negativa, o que sugere que os usuários com graus de conexão diferentes interagem entre si. A presença de um único componente conectado indica que a rede é altamente coesa e não possui grupos isolados. O alto coeficiente de clustering médio destaca a tendência à formação de grupos locais de interações. Esses resultados são relevantes para entender como os usuários interagem em uma rede social baseada em localização e como as conexões se distribuem na plataforma.
-  - **sx-askubuntu**
+  - **5. sx-askubuntu**
     - A rede temporal "sx-askubuntu" é uma rede com uma quantidade considerável de usuários e interações. Ela exibe uma assortatividade negativa em relação ao grau, sugerindo que os usuários com graus de conexão diferentes se conectam entre si. A rede é altamente fragmentada em vários componentes conectados, com um GCC representando a maior comunidade. O coeficiente de clustering médio destaca a tendência à formação de grupos locais de interações na plataforma de perguntas e respostas do Ask Ubuntu. Esses resultados são relevantes para entender como os usuários se relacionam e colaboram em um ambiente de perguntas e respostas online.
 
