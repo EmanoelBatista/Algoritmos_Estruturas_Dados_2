@@ -8,6 +8,7 @@
 
 ### Tabela 
 - A tabela foi criada com base nesta [análise](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/blob/main/U2T2/Requisito_03/requisitos_03.ipynb).
+
 |                 | Quantidade de vértices | Quantidade de arestas | Degree Assortativity Coefficient | Quantidade de componentes conectados | Tamanho do Componente Gigante (GCC) | Coeficiente de Clustering |
 |---------------------|-------------------------|-----------------------|----------------------------------|-------------------------------------|-----------------------------------|---------------------------|
 | com-Youtube              |      1134890      |     2987624     |          -0.028332126333519572           |           1134890             |          1             |       0.04040113888093932       |
