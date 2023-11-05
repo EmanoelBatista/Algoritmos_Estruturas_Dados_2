@@ -7,3 +7,12 @@
 <img src="https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/blob/main/U2T2/Requisito_03/Tabela.png" alt="Tabela" width="600" height="400">
 
 ## Interpretação dos resultados
+
+### Tabela
+|                 | Quantidade de vértices | Quantidade de arestas | Degree Assortativity Coefficient | Quantidade de componentes conectados | Tamanho do Componente Gigante (GCC) | Coeficiente de Clustering |
+|---------------------|-------------------------|-----------------------|----------------------------------|-------------------------------------|-----------------------------------|---------------------------|
+| com-Youtube              |      1134890      |     2987624     |          -0.028332126333519572           |           1134890             |          1             |       0.04040113888093932       |
+| ca-AstroPh              | 18772           | 396160         | 0.20518714346398922                    | 290                       | 17903                     | 0.6305932411707943             |
+| web-Google              | 875713           | 5105039         | -0.06520019402435487                   | 371764                      | 434818                      | 0.3698306814797672             |
+| loc-Gowalla              | 196591           | 1900654         | -0.02925474163485361                    | 1                      | 196591                      | 0.23672372971033598             |
+| wiki-talk-temporal              | Valor_Rede_5           | Valor_Rede_5         | Valor_Rede_5                    | Valor_Rede_5                       | Valor_Rede_5                      | Valor_Rede_5             |
