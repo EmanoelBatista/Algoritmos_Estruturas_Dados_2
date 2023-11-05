@@ -2,4 +2,4 @@
 #### Repositório GitHub do curso Algoritmos e Estruturas de Dados II (DCA0209).
 - [Repositório do curso disponibilizado pelo professor](https://github.com/ivanovitchm/datastructure)
 #### Aqui você encontrará os projetos desenvolvidos ao longo deste curso.
-#### Aluno = Emanoel Batista Pereira Filho
+#### Aluno : Emanoel Batista Pereira Filho
