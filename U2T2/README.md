@@ -1,5 +1,5 @@
 # Small Worlds
-- [Documento do trabalho]([https://snap.stanford.edu/data/wiki-talk-temporal.html](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf))
+- ([Documento do trabalho](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_09/U2T2.pdf))
 
 ## Objetivos 
 - Explorar os conteúdos das semanas 7 e 8 ([datastructure](https://github.com/ivanovitchm/datastructure)).
