@@ -27,5 +27,5 @@
 - Para acessar, clique [aqui](https://github.com/EmanoelBatista/Algoritmos_Estruturas_Dados_2/tree/main/U2T2/Requisito_03)
 
 ## Vídeo explicativo
-- Assista ao vídeo explicativo [aqui](https://www.loom.com/share/8694c7ee0250418e8d5a17f975add75b).
+- Assista ao vídeo explicativo [aqui]().
 
